@@ -46,7 +46,7 @@ body {
   font-weight: 700;
   font-size: 3rem;
   color: hsl(300, 43%, 22%);
-  margin-bottom: 0;
+  margin: 0 auto;
 }
 
 .title-col p {
@@ -102,7 +102,6 @@ body {
 
 .testimonial-user {
   color: white;
-
   width: 100%;
   height: 20%;
   margin: 2rem 0;
@@ -114,6 +113,7 @@ body {
 }
 .testimonial-user-name {
   margin-bottom: 0.2rem;
+  margin-top: 0.5rem;
 }
 .user-text p {
   margin-top: 0;
@@ -169,5 +169,10 @@ body {
   }
   #Anne {
     margin-top: 0%;
+    margin-bottom: 2rem;
+  }
+  .user-image {
+    margin-left: 2rem;
+    width: 3rem;
   }
 }
